@@ -14,3 +14,10 @@ This project is a notebook-based implementation related to ZKLLM and Large Langu
 ```bash
 git clone https://github.com/Varshini01234/ZKLLM01.git
 cd ZKLLM01
+## Install required libraries:
+pip install numpy pandas transformers torch huggingface_hub
+## Make sure Jupyter Notebook is installed:
+pip install notebook
+## Open the notebook:
+jupyter notebook notebook19138b5f1c.ipynb
+##Run all cells from top to bottom
